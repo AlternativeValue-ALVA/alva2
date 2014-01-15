@@ -8,6 +8,6 @@ TODO
 -Implement the raintpl.  
 -Revamp the login/registration/other fileds in mongodb.  
 -Implement the sms notification's.  
--Implement chat
--Implement sound notification's
--Implement OpenExcahnge API
+-Implement chat  
+-Implement sound notification's  
+-Implement OpenExcahnge API  
